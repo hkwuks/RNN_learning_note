@@ -26,11 +26,11 @@
 
 ![image.png](RNN.assets/20210302180838-e9bdfq9-image.png)
 
-- 可以自定义h~t~的更新策略
+- 可以自定义$h_{t}$的更新策略
 
   ![image.png](RNN.assets/20210302181516-qdkdisg-image.png)
 
-- h~t~的更新函数
+- $h_{t}$的更新函数
 
   ![image.png](RNN.assets/20210302181721-088hiir-image.png)
 
